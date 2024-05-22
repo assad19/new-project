@@ -1,5 +1,5 @@
 server{
-  server_name 165.232.177.116;
+  server_name 159.89.163.33;
 
       location / {
         proxy_pass http://localhost:3000;
